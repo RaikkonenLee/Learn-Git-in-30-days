@@ -3,7 +3,7 @@
 
 作者: 黃保翕 ( Will 保哥 )
 
-![Git](https://kkbox-registrano.s3.amazonaws.com/upload_images/13710/gitlogo_530.png)
+![Git](https://cloud.githubusercontent.com/assets/88981/7561160/79b1cc50-f7fc-11e4-8077-27335f520328.png)
 
 文章簡介
 ------------
@@ -54,6 +54,12 @@
 課程資訊
 ---------
 
+* [《台北》Git 版本控管實戰：從入門到進階](http://miniasp.kktix.cc/events/git-taipei-06) [一天課程]
+	* 上課時間: 2014/10/05 9:00 ~ 17:00
+* [《台北》Git 版本控管實戰：從入門到進階](https://kktix.com/events/git-taipei-04) [一天課程]
+	* 上課時間: 2014/06/14 9:00 ~ 17:00
+* [《台北》Git 版本控管實戰：從入門到進階](https://kktix.com/events/git-taipei-03) [一天課程]
+	* 上課時間: 2014/06/08 9:00 ~ 17:00
 * [《台中》Git 版本控管實戰：新手入門篇](http://miniasp.kktix.cc/events/git-taichung-01) [一天課程]
 	* 上課時間: 2014/04/19 9:00 ~ 17:00
 * [《高雄》Git 版本控管實戰：新手入門篇](http://miniasp.kktix.cc/events/git-kaohsiung-01) [一天課程]
